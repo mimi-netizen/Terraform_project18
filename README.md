@@ -1,4 +1,3 @@
-```markdown
 # Terraform Project 18 Configuration Files
 
 Welcome to the Terraform Project 18 repository! This repository contains the configuration files necessary for automating infrastructure using Terraform, as part of the [Steghub DevOps Cloud Computing Project 18](https://github.com/mimi-netizen/Steghub-DevOps_CloudComputing/tree/main/Project%2018%20Automate%20Infrastructure%20With%20IaC%20using%20Terraform-Part%203).
